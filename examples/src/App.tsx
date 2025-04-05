@@ -1,6 +1,6 @@
 import "./App.css";
 import { useState, useRef, useEffect } from "react";
-import { useSpeechRecognition } from "../../src";
+import { useSpeechRecognition } from "react-better-speech-recognition";
 
 function App() {
   const {
