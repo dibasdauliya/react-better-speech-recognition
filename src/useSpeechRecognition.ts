@@ -18,6 +18,7 @@ import {
  * - startListening: Function to start speech recognition
  * - stopListening: Function to stop speech recognition
  * - isSupported: Boolean indicating if speech recognition is supported in the current environment
+ * - setCompleteTranscript: Function to set the complete transcript
  */
 export const useSpeechRecognition = (options?: {
   continuous?: boolean;
@@ -93,5 +94,6 @@ export const useSpeechRecognition = (options?: {
     startListening,
     stopListening,
     isSupported: isSpeechRecognitionSupported,
+    setCompleteTranscript,
   };
 };
