@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dibasdauliya/better-speech-recognition.git"
+    "url": "https://github.com/dibasdauliya/react-better-speech-recognition.git"
   },
   "bugs": {
-    "url": "https://github.com/dibasdauliya/better-speech-recognition/issues"
+    "url": "https://github.com/dibasdauliya/react-better-speech-recognition/issues"
   },
-  "homepage": "https://github.com/dibasdauliya/better-speech-recognition#readme"
+  "homepage": "https://github.com/dibasdauliya/react-better-speech-recognition#readme"
 }
