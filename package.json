@@ -1,6 +1,6 @@
 {
   "name": "react-better-speech-recognition",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A React wrapper for BetterSpeechRecognition to easily manage speech recognition in React applications.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
